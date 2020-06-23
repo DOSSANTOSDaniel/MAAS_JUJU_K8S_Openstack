@@ -1,2 +1,8 @@
-# Cours_22_06_2020
-MAAS JUJU OpenStack Kubernetes
+# Wiki TP technologies cloud open sources
+
+* MAAS
+* JUJU
+* OpenStack
+* Kubernetes
+
+TPs supervisés par Mr Moula BADJI

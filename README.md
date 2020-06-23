@@ -1,5 +1,5 @@
 # Wiki TP technologies cloud open sources
-![logo](https://github.com/DOSSANTOSDaniel/MAAS_JUJU_K8S_Openstack/blob/master/open.png)
+![logo](https://github.com/DOSSANTOSDaniel/MAAS_JUJU_K8S_Openstack/blob/master/opensource.png)
 
 * MAAS
 * JUJU

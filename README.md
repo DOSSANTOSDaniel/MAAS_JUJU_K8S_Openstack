@@ -8,5 +8,5 @@
 * Kubernetes
 * Landscape
 
-Travaux pratiques supervisés par Mr Moula BADJI [Linkedin](https://www.linkedin.com/in/moula-badji-8550b773)
+Travaux pratiques supervisés par Mr Moula BADJI :linkedin: [Linkedin](https://www.linkedin.com/in/moula-badji-8550b773)
 

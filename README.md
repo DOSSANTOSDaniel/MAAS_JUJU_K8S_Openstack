@@ -17,22 +17,22 @@
 
 * **Openstack**
 
-  * [Déployer Openstack avec JUJU](https://github.com/DOSSANTOSDaniel/MAAS_JUJU_K8S_Openstack/wiki/Deployer_Openstack_avec_JUJU)
-  * [Déployer Openstack avec Octavia](https://github.com/DOSSANTOSDaniel/MAAS_JUJU_K8S_Openstack/wiki/Deployer_Openstack_avec_Octavia)
+  * [Déployer Openstack en utilisant JUJU](https://github.com/DOSSANTOSDaniel/MAAS_JUJU_K8S_Openstack/wiki/Deployer_Openstack_avec_JUJU)
+  * [Déployer Openstack avec Octavia en utilisant JUJU](https://github.com/DOSSANTOSDaniel/MAAS_JUJU_K8S_Openstack/wiki/Deployer_Openstack_avec_Octavia)
   * [Déployer Openstack en utilisant Packstack sur une machine](https://github.com/DOSSANTOSDaniel/MAAS_JUJU_K8S_Openstack/wiki/Deployer_Openstack_avec_Packstack_sur_une_machine)
-  * [Déployer Openstack avec Vault](https://github.com/DOSSANTOSDaniel/MAAS_JUJU_K8S_Openstack/wiki/Deployer_Openstack_avec_Vault)
+  * [Déployer Openstack avec Vault en utilisant JUJU](https://github.com/DOSSANTOSDaniel/MAAS_JUJU_K8S_Openstack/wiki/Deployer_Openstack_avec_Vault)
 
 * **Kubernetes**
 
-  * [Déployer Kubernetes avec JUJU](https://github.com/DOSSANTOSDaniel/MAAS_JUJU_K8S_Openstack/wiki/Deployer_Kubernetes_avec_JUJU)
+  * [Déployer Kubernetes en utilisant JUJU](https://github.com/DOSSANTOSDaniel/MAAS_JUJU_K8S_Openstack/wiki/Deployer_Kubernetes_avec_JUJU)
 
 * **Landscape**
 
-  * [Déployer Landscape avec JUJU](https://github.com/DOSSANTOSDaniel/MAAS_JUJU_K8S_Openstack/wiki/Deployer_Landscape_avec_JUJU)
+  * [Déployer Landscape en utilisant JUJU](https://github.com/DOSSANTOSDaniel/MAAS_JUJU_K8S_Openstack/wiki/Deployer_Landscape_avec_JUJU)
 
 * **CEPH**
 
-  * [Déployer une baie de stockage ceph avec JUJU](https://github.com/DOSSANTOSDaniel/MAAS_JUJU_K8S_Openstack/wiki/Deployer_une_baie_de_stockage_ceph_avec_JUJU)
+  * [Déployer une baie de stockage ceph en utilisant JUJU](https://github.com/DOSSANTOSDaniel/MAAS_JUJU_K8S_Openstack/wiki/Deployer_une_baie_de_stockage_ceph_avec_JUJU)
 
 * **Autre**
 

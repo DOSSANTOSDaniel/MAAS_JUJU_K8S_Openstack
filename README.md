@@ -19,7 +19,7 @@
 
   * [Déployer Openstack avec JUJU](https://github.com/DOSSANTOSDaniel/MAAS_JUJU_K8S_Openstack/wiki/Deployer_Openstack_avec_JUJU)
   * [Déployer Openstack avec Octavia](https://github.com/DOSSANTOSDaniel/MAAS_JUJU_K8S_Openstack/wiki/Deployer_Openstack_avec_Octavia)
-  * [Déployer Openstack avec Packstack sur une machine](https://github.com/DOSSANTOSDaniel/MAAS_JUJU_K8S_Openstack/wiki/Deployer_Openstack_avec_Packstack_sur_une_machine)
+  * [Déployer Openstack en utilisant Packstack sur une machine](https://github.com/DOSSANTOSDaniel/MAAS_JUJU_K8S_Openstack/wiki/Deployer_Openstack_avec_Packstack_sur_une_machine)
   * [Déployer Openstack avec Vault](https://github.com/DOSSANTOSDaniel/MAAS_JUJU_K8S_Openstack/wiki/Deployer_Openstack_avec_Vault)
 
 * **Kubernetes**
